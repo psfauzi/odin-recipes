@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para {
+    color: hsl(0, 0%, 0%);
+    font-weight: 800;
+}
+
+.para.small-para {
+    color: #000;
+    font-size: 14px;
+    font-weight: 800;    
+}
+
+.para {
+    font-size: 22px;
+}
+
+.Confirm {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+#confirm-button {
+    font-size: 20px;
+}
+.Cancel {
+    background-color: rgb(255,255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+
+div.text.child  {
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    font-size: 14px;
+  }
+  
+  div.text {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    font-weight: 100;
+  }
